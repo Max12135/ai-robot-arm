@@ -1,0 +1,7 @@
+# 人脸检测数据集：单类目标检测（实验 1 用）
+# 用法：把 path 改成你本机数据集目录（目录下应有 images/train、images/val、labels/train、labels/val）
+path: datasets/faces
+train: images/train
+val: images/val
+nc: 1
+names: ['jay']

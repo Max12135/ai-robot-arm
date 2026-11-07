@@ -1,0 +1,28 @@
+# 数据集与训练产物（体积大，按需自行准备）
+datasets/
+runs/
+*.pt
+!models/*.pt
+yolov8n.pt
+
+# 日志
+*.log
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vs/
+*.user
+
+# C++ 编译产物
+x64/
+Debug/
+Release/
+
+# 视频
+*.mp4
+*.gif
