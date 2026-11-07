@@ -156,8 +156,8 @@ yolo detect train data=data/gesture_dataset.yaml model=yolov8n.pt epochs=100 img
 
 见 [Releases](../../releases)：
 
-- `demo-gesture-arm.mp4`：石头抓取放置 → 剪刀夹爪展示 → 布开风扇
-- `demo-face-servo.mp4`：实验 1 人脸检测驱动舵机
+- `demo-gesture-arm.mp4`：实验 2 完整流程 —— 石头抓取放置 → 剪刀夹爪展示 → 布开风扇
+- `demo-gesture-vision.mp4`：上位机手势识别界面（不接机械臂的调试录像）
 
 ---
 
